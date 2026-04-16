@@ -1,2 +1,2 @@
-#Receta de guacamole
+# Receta de guacamole
 Utilizada para aprender git.
